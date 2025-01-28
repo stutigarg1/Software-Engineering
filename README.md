@@ -1,6 +1,5 @@
 # Software-Engineering
 
-## About This Repository
 This repository contains submissions for all Software Engineering lab sessions. It is a structured collection of practical implementations, designed to demonstrate core principles and methodologies of software engineering.
 
 ## Contents
