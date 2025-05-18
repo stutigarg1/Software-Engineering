@@ -1,7 +1,6 @@
 Code Versioning Brief:
 Code versioning is the practice of tracking and managing changes to software code. GitHub, a cloud-based platform built on Git, provides a collaborative and distributed version control system that enables developers to work together efficiently.
 
-
 Key Concepts in Code Versioning with GitHub:
 1) Repository (Repo)
 A storage location on GitHub where your project files and their version history live.
@@ -24,7 +23,6 @@ Fork: Create a personal copy of someone else's repo to propose changes.
 
 7) Issues and Project Boards:
 Used to track bugs, enhancements, and plan workflows.
-
 
 Why GitHub Versioning
 - History tracking: See who changed what and when.
