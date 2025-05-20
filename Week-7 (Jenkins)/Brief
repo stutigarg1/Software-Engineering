@@ -1,0 +1,21 @@
+Jenkins Brief:
+- Jenkins is an open-source automation server used primarily for Continuous Integration (CI) and Continuous Deployment (CD). It helps automate the process of building, testing, and deploying code.
+
+Key Features:
+- Pipeline as Code: Define build workflows in a Jenkinsfile.
+- Plugins: Over 1800 plugins to integrate with tools like Git, Docker.
+- Extensible: Highly customizable through community plugins.
+- Distributed Builds: Supports master agent architecture to distribute load across machines.
+- Monitoring: Realtime build and test status dashboards.
+
+Why Use Jenkins?
+- Automates repetitive tasks like testing and deployment.
+- Reduces integration problems by continuously merging code.
+- Speeds up development with early bug detection and feedback.
+- Works with almost any language or technology stack.
+
+Real World Appliications
+- Build automation (compiling code)
+- Test automation (running unit/integration tests)
+- Deploying applications (staging or production)
+- Code quality analysis
